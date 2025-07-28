@@ -56,5 +56,8 @@ Podés desplegar este CLI como un servicio en Railway o cualquier entorno que so
 Basado en la librería oficial:
 👉 sethvargo/go-password
 
+Licencia original: MIT License
+El código fue modificado con fines educativos y de demostración técnica, sin fines comerciales.
+
 
 ## Desarrollado con ❤️ por spookycoincidence
